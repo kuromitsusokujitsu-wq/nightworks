@@ -240,7 +240,7 @@ a:hover {
 
 .hero-title {
     color: #ffffff;
-    font-size: 4rem;
+    font-size: 3rem;
     margin-bottom: 1rem;
     font-weight: 700;
     animation: slideInFromTop 0.8s ease-out;
@@ -252,7 +252,7 @@ a:hover {
 
 .hero-subtitle {
     color: #FFD700;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     margin-bottom: 1.5rem;
     font-weight: 600;
     animation: slideInFromTop 0.8s ease-out 0.2s both;
@@ -264,7 +264,7 @@ a:hover {
 
 .hero-description {
     color: #e0e0e0;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     margin-bottom: 2rem;
     line-height: 1.8;
     animation: fadeIn 0.8s ease-out 0.4s both;
@@ -377,8 +377,8 @@ section {
 
 .section-subtitle {
     text-align: center;
-    color: #b0b0b0;
-    font-size: 2.5rem;
+    color: #FF8C42;
+    font-size: 1.5rem;
     margin-bottom: 3rem;
     font-weight: 500;
 }
