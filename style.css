@@ -378,7 +378,7 @@ section {
 .section-subtitle {
     text-align: center;
     color: #b0b0b0;
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-bottom: 3rem;
     font-weight: 500;
 }
@@ -502,14 +502,14 @@ section {
 }
 
 .feature-title {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     margin-bottom: 0.5rem;
     color: #ffffff;
 }
 
 .feature-description {
     color: #FF8C42;
-    font-size: 1.5rem;
+    font-size: 0.95rem;
     line-height: 1.6;
 }
 
